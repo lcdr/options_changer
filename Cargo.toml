@@ -1,0 +1,18 @@
+[package]
+name = "mod"
+version = "0.1.0"
+authors = ["lcdr"]
+edition = "2018"
+description = "A mod to change LU's UI scale."
+readme = "README.md"
+license = "AGPL-3.0-or-later"
+repository = "https://github.com/lcdr/ui_scaler/"
+
+[dependencies]
+winapi = { version = "0.3.9", features = ["libloaderapi", "memoryapi"] }
+
+[lib]
+crate-type = ["cdylib"]
+
+[profile.release]
+lto = true
