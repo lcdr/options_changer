@@ -4,7 +4,7 @@ A mod to change LU's UI scale.
 
 If you haven't installed my modloader yet, install it from https://github.com/lcdr/mod_loader/releases/, following the instructions there.
 
-Download this mod from https://github.com/lcdr/ui_scaler/releases/, following the instructions there.
+Download this mod from https://github.com/lcdr/options_changer/releases/, following the instructions there.
 
 # Usage:
 
