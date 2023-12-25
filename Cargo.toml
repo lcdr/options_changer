@@ -1,5 +1,5 @@
 [package]
-name = "mod"
+name = "options_changer"
 version = "0.1.0"
 authors = ["lcdr"]
 edition = "2018"
